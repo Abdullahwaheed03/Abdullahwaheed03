@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Yousef Dergham's profile!
+  Welcome to Abdullah waheed's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -11,40 +11,22 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+- 👨‍💻 I'm a Embedded Software Engineering student 
+
 
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/abdullah-waheed](utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-<a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![C Programing language](data:image/png;base64,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)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" 
