@@ -3,6 +3,15 @@
 
 <img width="200" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
+<h3 align="center">
+    Welcome to Abdullah Waheed's profile! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+
+- 👨‍💻 Power engineering Student , passionate about embedded systems
+
+
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/abdullah-waheed-a04607227/" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Waheed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
