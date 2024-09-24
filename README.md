@@ -1,9 +1,11 @@
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
+<img width="200" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
+### Connect with Me :
 
-<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<a href="https://linkedin.com/in/yousefdergham](https://www.linkedin.com/in/abdullah-waheed-a04607227/" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Waheed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
@@ -26,4 +28,6 @@
 <br/>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<div style="text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Your GIF" style="max-width: 300px; height: auto;">
+</div>
