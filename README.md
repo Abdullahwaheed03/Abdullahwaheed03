@@ -14,7 +14,7 @@
 
 ### Connect with Me :
 
-<a href="(https://www.linkedin.com/in/abdullah-waheed-a04607227/" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Waheed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdullah-waheed-a04607227/" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Waheed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
